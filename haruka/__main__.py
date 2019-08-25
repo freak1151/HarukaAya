@@ -139,7 +139,7 @@ Click Help button to find out more about how to use me to my full potential.\n\n
 
     text += "Ask [Tech Freak](https://t.me/freaksir) ( @freaksir ) if you need any support or help\n\n\
 
-Made with love by @freaksir\n\n\.Want to add me to your group? [Click here!](t.me/Katherine_roBot?startgroup=true)"
+Made with love by @freaksir\n\nWant to add me to your group? [Click here!](t.me/Katherine_roBot?startgroup=true)"
 
     keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/shadowtunel")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
